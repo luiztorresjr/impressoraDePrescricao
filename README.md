@@ -17,7 +17,7 @@
 3. digite o comando `npm run dev`
 4. No [Postman](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjX8qH0houBAxWspJUCHZc8D3UQFnoECB8QAQ&url=https%3A%2F%2Fwww.postman.com%2F&usg=AOvVaw05sjAjE_hbftSn2Ii8YG6N&opi=89978449), ou [Insomnina](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiambCPiIuBAxUpJLkGHQz5DJAQjBB6BAgfEAE&url=https%3A%2F%2Finsomnia.rest%2Fdownload&usg=AOvVaw1RnqoNjpl_ii8nX1a3haYy&opi=89978449)
     4. Caso precise de ajuda para utilizar [Alura] (https://www.alura.com.br/artigos/postman-como-instalar-dar-seus-primeiros-passos)
-5. Abrir o Postman crie uma nova coleção e em seguida  uma nova requisição 
+5. Abrir o software para testar crie uma nova coleção e em seguida  uma nova requisição 
 
 ###### As duas opção de serviços criados são 
 * Ver todas as requisições utilizando um GET no http://localhost:3000/prescricoes
