@@ -1,7 +1,6 @@
 #Impressora de Prescricao
 
-###### essa aplicacao tem como objetivo criar uma aplicação que gera um QR Code
-###### e um pdf de um modelo de prescrição.
+###### Essa é uma aplicação que tem como finalidade gerar um arquivo PDF contendo um modelo de prescrição
 
 ###### Esse modelo contem :
 * QR Code
