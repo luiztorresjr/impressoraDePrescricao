@@ -7,7 +7,7 @@ class PrescricaoController {
         res.status(200).json(prescricoes)
     }
 
-    static imprimePrescricao = (req, res) =>{
+    static imprimirPrescricao = (req, res) =>{
         
         const id = req.params.id;
         var prescricao = prescricoes.find(i => i.numeroPrescricao == id);

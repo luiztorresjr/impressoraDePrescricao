@@ -5,7 +5,7 @@ const router = express.Router();
 
 router
     .get('/prescricoes', PrescricaoController.listarTodasPrescricoes)
-    .get('/prescricoes/:id', PrescricaoController.imprimePrescricao)
+    .get('/prescricoes/imprimir/:id', PrescricaoController.imprimirPrescricao)
 
 
 export default router;
