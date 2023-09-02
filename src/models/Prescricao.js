@@ -27,6 +27,27 @@ const prescricoes = [
             }
         ]
 
+    },
+    {
+        numeroPrescricao: 'PRESC1-622',
+        dataImpresao: moment().format("DD/MM/YYYY hh:mm:ss"),
+        nomePaciente: 'PACIENTE TESTE 2',
+        setor: 'ESPERA-PENDENCIAS ALTA MEDICA/C3-126-HUB',
+        atendimento: 2450523,
+        horario: '13:00',
+        medicamentos: [
+            {
+                dose: '02',
+                nome: 'AMLODIPINA AMP 5MG',
+                formaAdministracao: 'VIA ORAL'
+            }, 
+            {
+                dose: '01',
+                nome: 'PARACETAMOL AMP 10MG',
+                formaAdministracao: 'VIA ORAL'
+            }
+        ]
+
     }
 ]
 
