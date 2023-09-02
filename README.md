@@ -20,7 +20,7 @@
 5. Abrir o software para testar crie uma nova coleção e em seguida  uma nova requisição 
 
 ###### As duas opção de serviços criados são 
-* Ver todas as requisições utilizando um GET no http://localhost:3000/prescricoes
+* Ver todas as prescrições utilizando um GET no http://localhost:3000/prescricoes
 * Imprimir a prescrição atraves de um GET passando o id http://localhost:3000/prescricoes/imprimir/PRESC1-621
 
 ###### Por fim sera criado a pasta output e sera criado um arquivo pdf
