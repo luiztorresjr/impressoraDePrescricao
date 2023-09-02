@@ -12,7 +12,7 @@
 * uma lista de medicacao
 
 ## Bloco de instruções de teste
-1. Na raiz da pasta abra o terminal ou utilizando o visual studio code clique em ver terminal 
+1. Na raiz da pasta abra o terminal ou utilizando o visual studio code clique em aba superior ver -> terminal 
 2. digite o comando `npm install` para instalar todas as dependencias necessarias
 3. digite o comando `npm run dev`
 4. No [Postman](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjX8qH0houBAxWspJUCHZc8D3UQFnoECB8QAQ&url=https%3A%2F%2Fwww.postman.com%2F&usg=AOvVaw05sjAjE_hbftSn2Ii8YG6N&opi=89978449), ou [Insomnina](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiambCPiIuBAxUpJLkGHQz5DJAQjBB6BAgfEAE&url=https%3A%2F%2Finsomnia.rest%2Fdownload&usg=AOvVaw1RnqoNjpl_ii8nX1a3haYy&opi=89978449)
